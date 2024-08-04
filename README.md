@@ -14,7 +14,7 @@ This project demonstrates real-time hand tracking using OpenCV and `cvzone`, wit
 - OpenCV
 - `cvzone` library
 
-Contributing
+## Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 
