@@ -18,3 +18,11 @@ To install the required libraries, use the following commands:
 
 ```bash
 pip install opencv-python cvzone
+
+Installation and Setup
+Clone the Repository:
+
+bash
+
+Contributing
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
